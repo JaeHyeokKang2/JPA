@@ -21,4 +21,6 @@ public class Member {
     private String city;
 
 
+    public Member(int i, String member1) {
+    }
 }
